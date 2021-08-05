@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" creator="Doogal.co.uk" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd">
+<metadata>
+<link href="https://www.doogal.co.uk">
+<text>Doogal.co.uk</text>
+</link>
+<time>2021-08-05T11:03:55.179Z</time>
+</metadata>
+<trk>
+<name>Schafberg-Trail</name>
+<link href="https://www.strava.com/segments/6330034">
+<text>View on Strava</text>
+</link>
+<trkseg>
+<trkpt lat="50.888517" lon="11.639915">
+<ele>303.5</ele>
+</trkpt>
+<trkpt lat="50.888517" lon="11.639843">
+<ele>302.6</ele>
+</trkpt>
+<trkpt lat="50.888501" lon="11.639758">
+<ele>301.4</ele>
+</trkpt>
+<trkpt lat="50.888487" lon="11.639656">
+<ele>300</ele>
+</trkpt>
+<trkpt lat="50.888474" lon="11.639541">
+<ele>298.6</ele>
+</trkpt>
+<trkpt lat="50.888468" lon="11.639426">
+<ele>297.2</ele>
+</trkpt>
+<trkpt lat="50.888473" lon="11.639298">
+<ele>295.9</ele>
+</trkpt>
+<trkpt lat="50.888483" lon="11.639157">
+<ele>294.5</ele>
+</trkpt>
+<trkpt lat="50.888487" lon="11.639006">
+<ele>292.9</ele>
+</trkpt>
+<trkpt lat="50.888478" lon="11.638887">
+<ele>291.5</ele>
+</trkpt>
+<trkpt lat="50.888472" lon="11.63878">
+<ele>290.3</ele>
+</trkpt>
+<trkpt lat="50.88846" lon="11.638626">
+<ele>288.1</ele>
+</trkpt>
+<trkpt lat="50.888436" lon="11.638536">
+<ele>286.6</ele>
+</trkpt>
+<trkpt lat="50.888402" lon="11.638477">
+<ele>285.5</ele>
+</trkpt>
+<trkpt lat="50.888363" lon="11.638471">
+<ele>285.2</ele>
+</trkpt>
+<trkpt lat="50.88833" lon="11.638445">
+<ele>284.6</ele>
+</trkpt>
+<trkpt lat="50.888281" lon="11.638459">
+<ele>284.5</ele>
+</trkpt>
+<trkpt lat="50.888248" lon="11.638466">
+<ele>284.4</ele>
+</trkpt>
+<trkpt lat="50.888201" lon="11.638438">
+<ele>283.7</ele>
+</trkpt>
+<trkpt lat="50.888163" lon="11.638418">
+<ele>283.2</ele>
+</trkpt>
+<trkpt lat="50.888119" lon="11.63832">
+<ele>281.5</ele>
+</trkpt>
+<trkpt lat="50.888069" lon="11.638211">
+<ele>279.7</ele>
+</trkpt>
+<trkpt lat="50.888018" lon="11.638095">
+<ele>277.9</ele>
+</trkpt>
+<trkpt lat="50.887957" lon="11.637991">
+<ele>276.2</ele>
+</trkpt>
+<trkpt lat="50.88789" lon="11.637862">
+<ele>274.1</ele>
+</trkpt>
+<trkpt lat="50.88785" lon="11.637777">
+<ele>272.7</ele>
+</trkpt>
+<trkpt lat="50.887823" lon="11.637674">
+<ele>271.2</ele>
+</trkpt>
+<trkpt lat="50.887802" lon="11.637555">
+<ele>269.7</ele>
+</trkpt>
+<trkpt lat="50.887785" lon="11.637448">
+<ele>268.3</ele>
+</trkpt>
+<trkpt lat="50.887747" lon="11.637352">
+<ele>266.9</ele>
+</trkpt>
+<trkpt lat="50.887719" lon="11.637286">
+<ele>266</ele>
+</trkpt>
+<trkpt lat="50.887686" lon="11.637222">
+<ele>265.1</ele>
+</trkpt>
+<trkpt lat="50.88766" lon="11.637162">
+<ele>264.3</ele>
+</trkpt>
+</trkseg>
+</trk>
+</gpx>

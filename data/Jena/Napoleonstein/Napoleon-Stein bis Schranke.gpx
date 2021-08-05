@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" creator="Doogal.co.uk" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd">
+<metadata>
+<link href="https://www.doogal.co.uk">
+<text>Doogal.co.uk</text>
+</link>
+<time>2021-08-05T10:46:19.054Z</time>
+</metadata>
+<trk>
+<name>Napoleon-Stein bis Schranke</name>
+<link href="https://www.strava.com/segments/18116355">
+<text>View on Strava</text>
+</link>
+<trkseg>
+<trkpt lat="50.945109" lon="11.571482">
+<ele>342</ele>
+</trkpt>
+<trkpt lat="50.945066" lon="11.571552">
+<ele>342.5</ele>
+</trkpt>
+<trkpt lat="50.945032" lon="11.571603">
+<ele>341.6</ele>
+</trkpt>
+<trkpt lat="50.944994" lon="11.57167">
+<ele>340.5</ele>
+</trkpt>
+<trkpt lat="50.944949" lon="11.571758">
+<ele>340</ele>
+</trkpt>
+<trkpt lat="50.944883" lon="11.57184">
+<ele>339.9</ele>
+</trkpt>
+<trkpt lat="50.944809" lon="11.571929">
+<ele>339.7</ele>
+</trkpt>
+<trkpt lat="50.944729" lon="11.572043">
+<ele>339.7</ele>
+</trkpt>
+<trkpt lat="50.944644" lon="11.572156">
+<ele>339.6</ele>
+</trkpt>
+<trkpt lat="50.94456" lon="11.572274">
+<ele>339.6</ele>
+</trkpt>
+<trkpt lat="50.944476" lon="11.572394">
+<ele>339.7</ele>
+</trkpt>
+<trkpt lat="50.944391" lon="11.572514">
+<ele>338.9</ele>
+</trkpt>
+<trkpt lat="50.944305" lon="11.572638">
+<ele>337.9</ele>
+</trkpt>
+<trkpt lat="50.94422" lon="11.572763">
+<ele>337.3</ele>
+</trkpt>
+<trkpt lat="50.94415" lon="11.572893">
+<ele>336.3</ele>
+</trkpt>
+<trkpt lat="50.944076" lon="11.573003">
+<ele>334.9</ele>
+</trkpt>
+<trkpt lat="50.943981" lon="11.57307">
+<ele>333.3</ele>
+</trkpt>
+<trkpt lat="50.943879" lon="11.573133">
+<ele>332</ele>
+</trkpt>
+<trkpt lat="50.943784" lon="11.573233">
+<ele>330.3</ele>
+</trkpt>
+<trkpt lat="50.943689" lon="11.573335">
+<ele>329.3</ele>
+</trkpt>
+<trkpt lat="50.943597" lon="11.57344">
+<ele>328</ele>
+</trkpt>
+<trkpt lat="50.943504" lon="11.573549">
+<ele>327.5</ele>
+</trkpt>
+<trkpt lat="50.943407" lon="11.57366">
+<ele>326.7</ele>
+</trkpt>
+<trkpt lat="50.943309" lon="11.573773">
+<ele>325.6</ele>
+</trkpt>
+<trkpt lat="50.943218" lon="11.57387">
+<ele>324.2</ele>
+</trkpt>
+<trkpt lat="50.943117" lon="11.573931">
+<ele>322.8</ele>
+</trkpt>
+<trkpt lat="50.943011" lon="11.574017">
+<ele>321.9</ele>
+</trkpt>
+<trkpt lat="50.942902" lon="11.57411">
+<ele>320.4</ele>
+</trkpt>
+<trkpt lat="50.942793" lon="11.574193">
+<ele>319.1</ele>
+</trkpt>
+<trkpt lat="50.942682" lon="11.574273">
+<ele>318.5</ele>
+</trkpt>
+<trkpt lat="50.942572" lon="11.574358">
+<ele>317.4</ele>
+</trkpt>
+<trkpt lat="50.942473" lon="11.574443">
+<ele>317.3</ele>
+</trkpt>
+<trkpt lat="50.942381" lon="11.574521">
+<ele>319</ele>
+</trkpt>
+<trkpt lat="50.942301" lon="11.574577">
+<ele>319</ele>
+</trkpt>
+<trkpt lat="50.942233" lon="11.574615">
+<ele>319</ele>
+</trkpt>
+<trkpt lat="50.942159" lon="11.574646">
+<ele>318.9</ele>
+</trkpt>
+<trkpt lat="50.942089" lon="11.574682">
+<ele>319</ele>
+</trkpt>
+</trkseg>
+</trk>
+</gpx>

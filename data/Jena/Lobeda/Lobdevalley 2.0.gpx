@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" creator="Doogal.co.uk" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd">
+<metadata>
+<link href="https://www.doogal.co.uk">
+<text>Doogal.co.uk</text>
+</link>
+<time>2021-08-05T10:57:14.864Z</time>
+</metadata>
+<trk>
+<name>Lobdevalley 2.0</name>
+<link href="https://www.strava.com/segments/8756384">
+<text>View on Strava</text>
+</link>
+<trkseg>
+<trkpt lat="50.899211" lon="11.616556">
+<ele>353.6</ele>
+</trkpt>
+<trkpt lat="50.899152" lon="11.616449">
+<ele>351.6</ele>
+</trkpt>
+<trkpt lat="50.899093" lon="11.61635">
+<ele>349.5</ele>
+</trkpt>
+<trkpt lat="50.898998" lon="11.616276">
+<ele>347</ele>
+</trkpt>
+<trkpt lat="50.89897" lon="11.616151">
+<ele>344.5</ele>
+</trkpt>
+<trkpt lat="50.898914" lon="11.616051">
+<ele>341.9</ele>
+</trkpt>
+<trkpt lat="50.898869" lon="11.615973">
+<ele>339.6</ele>
+</trkpt>
+<trkpt lat="50.898821" lon="11.615894">
+<ele>337.2</ele>
+</trkpt>
+<trkpt lat="50.898795" lon="11.615752">
+<ele>333.9</ele>
+</trkpt>
+<trkpt lat="50.898741" lon="11.61564">
+<ele>330.7</ele>
+</trkpt>
+<trkpt lat="50.898692" lon="11.615558">
+<ele>329.6</ele>
+</trkpt>
+<trkpt lat="50.898672" lon="11.615466">
+<ele>328</ele>
+</trkpt>
+<trkpt lat="50.898645" lon="11.61532">
+<ele>325.9</ele>
+</trkpt>
+<trkpt lat="50.898649" lon="11.615188">
+<ele>323.8</ele>
+</trkpt>
+<trkpt lat="50.898615" lon="11.615046">
+<ele>321.9</ele>
+</trkpt>
+<trkpt lat="50.898611" lon="11.614918">
+<ele>319.9</ele>
+</trkpt>
+<trkpt lat="50.898577" lon="11.614789">
+<ele>317.8</ele>
+</trkpt>
+<trkpt lat="50.898543" lon="11.614679">
+<ele>315.9</ele>
+</trkpt>
+<trkpt lat="50.89851" lon="11.614576">
+<ele>314</ele>
+</trkpt>
+<trkpt lat="50.898493" lon="11.614469">
+<ele>312.1</ele>
+</trkpt>
+<trkpt lat="50.898481" lon="11.614371">
+<ele>310.2</ele>
+</trkpt>
+<trkpt lat="50.898472" lon="11.61427">
+<ele>308.4</ele>
+</trkpt>
+<trkpt lat="50.898461" lon="11.614167">
+<ele>306.4</ele>
+</trkpt>
+<trkpt lat="50.89841" lon="11.614057">
+<ele>303.6</ele>
+</trkpt>
+<trkpt lat="50.898397" lon="11.613995">
+<ele>302.2</ele>
+</trkpt>
+<trkpt lat="50.898353" lon="11.613941">
+<ele>300.4</ele>
+</trkpt>
+<trkpt lat="50.898295" lon="11.613852">
+<ele>297.4</ele>
+</trkpt>
+<trkpt lat="50.898258" lon="11.613736">
+<ele>294.2</ele>
+</trkpt>
+<trkpt lat="50.898232" lon="11.61362">
+<ele>292.3</ele>
+</trkpt>
+<trkpt lat="50.898187" lon="11.613512">
+<ele>290</ele>
+</trkpt>
+<trkpt lat="50.898198" lon="11.613452">
+<ele>289.5</ele>
+</trkpt>
+<trkpt lat="50.898164" lon="11.613336">
+<ele>287.3</ele>
+</trkpt>
+<trkpt lat="50.898123" lon="11.613208">
+<ele>284.6</ele>
+</trkpt>
+<trkpt lat="50.898092" lon="11.613078">
+<ele>282.1</ele>
+</trkpt>
+<trkpt lat="50.898099" lon="11.612936">
+<ele>280.5</ele>
+</trkpt>
+<trkpt lat="50.898057" lon="11.612811">
+<ele>277.6</ele>
+</trkpt>
+<trkpt lat="50.898037" lon="11.612702">
+<ele>275.6</ele>
+</trkpt>
+<trkpt lat="50.898009" lon="11.61264">
+<ele>273.9</ele>
+</trkpt>
+<trkpt lat="50.897981" lon="11.612533">
+<ele>271.5</ele>
+</trkpt>
+<trkpt lat="50.897964" lon="11.612482">
+<ele>270.3</ele>
+</trkpt>
+<trkpt lat="50.897925" lon="11.612424">
+<ele>268.2</ele>
+</trkpt>
+<trkpt lat="50.897871" lon="11.612419">
+<ele>266.8</ele>
+</trkpt>
+<trkpt lat="50.897841" lon="11.612473">
+<ele>266.9</ele>
+</trkpt>
+<trkpt lat="50.8978" lon="11.612502">
+<ele>266.4</ele>
+</trkpt>
+<trkpt lat="50.897748" lon="11.612474">
+<ele>264.8</ele>
+</trkpt>
+<trkpt lat="50.897727" lon="11.612394">
+<ele>263.1</ele>
+</trkpt>
+<trkpt lat="50.897702" lon="11.612318">
+<ele>261.3</ele>
+</trkpt>
+<trkpt lat="50.89766" lon="11.612231">
+<ele>258.9</ele>
+</trkpt>
+<trkpt lat="50.897618" lon="11.612156">
+<ele>256.7</ele>
+</trkpt>
+<trkpt lat="50.897568" lon="11.612068">
+<ele>254.2</ele>
+</trkpt>
+</trkseg>
+</trk>
+</gpx>

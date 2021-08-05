@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" creator="Doogal.co.uk" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd">
+<metadata>
+<link href="https://www.doogal.co.uk">
+<text>Doogal.co.uk</text>
+</link>
+<time>2021-08-05T10:55:18.453Z</time>
+</metadata>
+<trk>
+<name>Kernberg  - Ziegenhainer Tal shorty</name>
+<link href="https://www.strava.com/segments/23163457">
+<text>View on Strava</text>
+</link>
+<trkseg>
+<trkpt lat="50.914613" lon="11.617815">
+<ele>383</ele>
+</trkpt>
+<trkpt lat="50.91465" lon="11.61777">
+<ele>383</ele>
+</trkpt>
+<trkpt lat="50.91468" lon="11.617704">
+<ele>379</ele>
+</trkpt>
+<trkpt lat="50.914706" lon="11.617613">
+<ele>377</ele>
+</trkpt>
+<trkpt lat="50.914737" lon="11.61751">
+<ele>376</ele>
+</trkpt>
+<trkpt lat="50.914773" lon="11.61741">
+<ele>374</ele>
+</trkpt>
+<trkpt lat="50.914816" lon="11.617323">
+<ele>371</ele>
+</trkpt>
+<trkpt lat="50.914875" lon="11.617257">
+<ele>368</ele>
+</trkpt>
+<trkpt lat="50.914955" lon="11.617217">
+<ele>366</ele>
+</trkpt>
+<trkpt lat="50.915045" lon="11.617204">
+<ele>364</ele>
+</trkpt>
+<trkpt lat="50.915155" lon="11.617215">
+<ele>361</ele>
+</trkpt>
+<trkpt lat="50.91527" lon="11.617234">
+<ele>359</ele>
+</trkpt>
+<trkpt lat="50.915394" lon="11.617249">
+<ele>356</ele>
+</trkpt>
+<trkpt lat="50.915522" lon="11.617252">
+<ele>353</ele>
+</trkpt>
+<trkpt lat="50.915648" lon="11.617234">
+<ele>351</ele>
+</trkpt>
+<trkpt lat="50.915769" lon="11.617203">
+<ele>349</ele>
+</trkpt>
+<trkpt lat="50.915877" lon="11.617153">
+<ele>347</ele>
+</trkpt>
+<trkpt lat="50.915966" lon="11.617077">
+<ele>344</ele>
+</trkpt>
+<trkpt lat="50.916042" lon="11.616979">
+<ele>341</ele>
+</trkpt>
+<trkpt lat="50.916107" lon="11.61686">
+<ele>338</ele>
+</trkpt>
+<trkpt lat="50.916164" lon="11.616714">
+<ele>336</ele>
+</trkpt>
+<trkpt lat="50.916205" lon="11.616568">
+<ele>333</ele>
+</trkpt>
+<trkpt lat="50.916246" lon="11.616422">
+<ele>330</ele>
+</trkpt>
+<trkpt lat="50.916273" lon="11.616279">
+<ele>328</ele>
+</trkpt>
+<trkpt lat="50.916295" lon="11.616143">
+<ele>326</ele>
+</trkpt>
+<trkpt lat="50.916309" lon="11.616024">
+<ele>324</ele>
+</trkpt>
+<trkpt lat="50.916311" lon="11.61591">
+<ele>322</ele>
+</trkpt>
+<trkpt lat="50.916307" lon="11.615795">
+<ele>320</ele>
+</trkpt>
+<trkpt lat="50.916302" lon="11.615681">
+<ele>320</ele>
+</trkpt>
+<trkpt lat="50.916305" lon="11.615561">
+<ele>320</ele>
+</trkpt>
+<trkpt lat="50.916325" lon="11.61542">
+<ele>297</ele>
+</trkpt>
+<trkpt lat="50.916358" lon="11.615269">
+<ele>297</ele>
+</trkpt>
+<trkpt lat="50.916406" lon="11.615115">
+<ele>297</ele>
+</trkpt>
+<trkpt lat="50.916464" lon="11.614956">
+<ele>296</ele>
+</trkpt>
+<trkpt lat="50.916517" lon="11.61481">
+<ele>295</ele>
+</trkpt>
+<trkpt lat="50.916573" lon="11.614668">
+<ele>295</ele>
+</trkpt>
+</trkseg>
+</trk>
+</gpx>

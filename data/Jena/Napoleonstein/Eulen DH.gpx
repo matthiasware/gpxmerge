@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" creator="Doogal.co.uk" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd">
+<metadata>
+<link href="https://www.doogal.co.uk">
+<text>Doogal.co.uk</text>
+</link>
+<time>2021-08-05T10:47:11.835Z</time>
+</metadata>
+<trk>
+<name>Eulen DH</name>
+<link href="https://www.strava.com/segments/6847440">
+<text>View on Strava</text>
+</link>
+<trkseg>
+<trkpt lat="50.949195" lon="11.586576">
+<ele>316.4</ele>
+</trkpt>
+<trkpt lat="50.949185" lon="11.586665">
+<ele>315</ele>
+</trkpt>
+<trkpt lat="50.949175" lon="11.586827">
+<ele>312.1</ele>
+</trkpt>
+<trkpt lat="50.94916" lon="11.587054">
+<ele>307.9</ele>
+</trkpt>
+<trkpt lat="50.949158" lon="11.587171">
+<ele>306.1</ele>
+</trkpt>
+<trkpt lat="50.949167" lon="11.587244">
+<ele>304.3</ele>
+</trkpt>
+<trkpt lat="50.949177" lon="11.587322">
+<ele>302.8</ele>
+</trkpt>
+<trkpt lat="50.94918" lon="11.587421">
+<ele>302.1</ele>
+</trkpt>
+<trkpt lat="50.949182" lon="11.58754">
+<ele>301</ele>
+</trkpt>
+<trkpt lat="50.949213" lon="11.587677">
+<ele>299.6</ele>
+</trkpt>
+<trkpt lat="50.949233" lon="11.587835">
+<ele>297.8</ele>
+</trkpt>
+<trkpt lat="50.949265" lon="11.587967">
+<ele>294.4</ele>
+</trkpt>
+<trkpt lat="50.949293" lon="11.588144">
+<ele>292.3</ele>
+</trkpt>
+<trkpt lat="50.949286" lon="11.588295">
+<ele>289.3</ele>
+</trkpt>
+<trkpt lat="50.949343" lon="11.588466">
+<ele>287</ele>
+</trkpt>
+<trkpt lat="50.949366" lon="11.5886">
+<ele>284.3</ele>
+</trkpt>
+<trkpt lat="50.949288" lon="11.588777">
+<ele>281.8</ele>
+</trkpt>
+<trkpt lat="50.949246" lon="11.58889">
+<ele>278.5</ele>
+</trkpt>
+<trkpt lat="50.949219" lon="11.588988">
+<ele>276.4</ele>
+</trkpt>
+<trkpt lat="50.949201" lon="11.589088">
+<ele>274.2</ele>
+</trkpt>
+<trkpt lat="50.949194" lon="11.58919">
+<ele>273</ele>
+</trkpt>
+<trkpt lat="50.949191" lon="11.589308">
+<ele>271</ele>
+</trkpt>
+<trkpt lat="50.949191" lon="11.589435">
+<ele>268.8</ele>
+</trkpt>
+<trkpt lat="50.949205" lon="11.589543">
+<ele>267.4</ele>
+</trkpt>
+<trkpt lat="50.949224" lon="11.589648">
+<ele>265.1</ele>
+</trkpt>
+<trkpt lat="50.949252" lon="11.58975">
+<ele>264.6</ele>
+</trkpt>
+<trkpt lat="50.949263" lon="11.589858">
+<ele>263.4</ele>
+</trkpt>
+<trkpt lat="50.949246" lon="11.589959">
+<ele>261.2</ele>
+</trkpt>
+<trkpt lat="50.949211" lon="11.590054">
+<ele>260.3</ele>
+</trkpt>
+<trkpt lat="50.94917" lon="11.59015">
+<ele>257.1</ele>
+</trkpt>
+<trkpt lat="50.949144" lon="11.590256">
+<ele>251.6</ele>
+</trkpt>
+<trkpt lat="50.949105" lon="11.590365">
+<ele>249.6</ele>
+</trkpt>
+<trkpt lat="50.949048" lon="11.590398">
+<ele>246.4</ele>
+</trkpt>
+<trkpt lat="50.949085" lon="11.590418">
+<ele>245.1</ele>
+</trkpt>
+<trkpt lat="50.949088" lon="11.590478">
+<ele>243.8</ele>
+</trkpt>
+<trkpt lat="50.949084" lon="11.590569">
+<ele>242.6</ele>
+</trkpt>
+<trkpt lat="50.949097" lon="11.590671">
+<ele>241.4</ele>
+</trkpt>
+<trkpt lat="50.949105" lon="11.59072">
+<ele>237.8</ele>
+</trkpt>
+<trkpt lat="50.949088" lon="11.59083">
+<ele>237</ele>
+</trkpt>
+<trkpt lat="50.949057" lon="11.590896">
+<ele>235.9</ele>
+</trkpt>
+<trkpt lat="50.949003" lon="11.59093">
+<ele>235.2</ele>
+</trkpt>
+<trkpt lat="50.948963" lon="11.591">
+<ele>234.1</ele>
+</trkpt>
+<trkpt lat="50.948948" lon="11.591062">
+<ele>233.1</ele>
+</trkpt>
+<trkpt lat="50.948922" lon="11.591096">
+<ele>230.7</ele>
+</trkpt>
+<trkpt lat="50.948934" lon="11.591054">
+<ele>229.6</ele>
+</trkpt>
+</trkseg>
+</trk>
+</gpx>
