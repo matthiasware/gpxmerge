@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" creator="Doogal.co.uk" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd">
+<metadata>
+<link href="https://www.doogal.co.uk">
+<text>Doogal.co.uk</text>
+</link>
+<time>2021-08-04T14:30:41.927Z</time>
+</metadata>
+<trk>
+<name>abwärts kurz und heftig</name>
+<link href="https://www.strava.com/segments/10851725">
+<text>View on Strava</text>
+</link>
+<trkseg>
+<trkpt lat="50.914689" lon="11.617649">
+<ele>365.4</ele>
+</trkpt>
+<trkpt lat="50.914694" lon="11.617544">
+<ele>365</ele>
+</trkpt>
+<trkpt lat="50.914703" lon="11.617422">
+<ele>364.6</ele>
+</trkpt>
+<trkpt lat="50.914728" lon="11.617305">
+<ele>364</ele>
+</trkpt>
+<trkpt lat="50.914768" lon="11.617224">
+<ele>363.4</ele>
+</trkpt>
+<trkpt lat="50.914824" lon="11.617159">
+<ele>362.4</ele>
+</trkpt>
+<trkpt lat="50.914894" lon="11.617113">
+<ele>361.4</ele>
+</trkpt>
+<trkpt lat="50.914968" lon="11.617098">
+<ele>360.4</ele>
+</trkpt>
+<trkpt lat="50.915045" lon="11.617087">
+<ele>359.2</ele>
+</trkpt>
+<trkpt lat="50.915125" lon="11.617097">
+<ele>357.8</ele>
+</trkpt>
+<trkpt lat="50.91521" lon="11.617133">
+<ele>356.4</ele>
+</trkpt>
+<trkpt lat="50.915294" lon="11.617192">
+<ele>354.6</ele>
+</trkpt>
+<trkpt lat="50.915373" lon="11.617236">
+<ele>353</ele>
+</trkpt>
+<trkpt lat="50.915454" lon="11.617265">
+<ele>349.6</ele>
+</trkpt>
+<trkpt lat="50.915532" lon="11.617268">
+<ele>348</ele>
+</trkpt>
+<trkpt lat="50.915607" lon="11.617247">
+<ele>346.4</ele>
+</trkpt>
+<trkpt lat="50.915694" lon="11.617199">
+<ele>344.8</ele>
+</trkpt>
+<trkpt lat="50.915771" lon="11.617147">
+<ele>343</ele>
+</trkpt>
+<trkpt lat="50.915841" lon="11.617081">
+<ele>341.2</ele>
+</trkpt>
+<trkpt lat="50.915909" lon="11.616995">
+<ele>339.4</ele>
+</trkpt>
+<trkpt lat="50.915972" lon="11.616908">
+<ele>337.8</ele>
+</trkpt>
+<trkpt lat="50.916025" lon="11.616824">
+<ele>336</ele>
+</trkpt>
+<trkpt lat="50.916078" lon="11.616743">
+<ele>334.2</ele>
+</trkpt>
+<trkpt lat="50.916126" lon="11.61666">
+<ele>332.6</ele>
+</trkpt>
+<trkpt lat="50.916181" lon="11.616561">
+<ele>330.8</ele>
+</trkpt>
+<trkpt lat="50.916198" lon="11.616433">
+<ele>328.8</ele>
+</trkpt>
+<trkpt lat="50.916213" lon="11.616293">
+<ele>326.8</ele>
+</trkpt>
+<trkpt lat="50.916224" lon="11.616176">
+<ele>324.8</ele>
+</trkpt>
+<trkpt lat="50.916214" lon="11.616094">
+<ele>322.6</ele>
+</trkpt>
+<trkpt lat="50.91618" lon="11.616024">
+<ele>320.4</ele>
+</trkpt>
+<trkpt lat="50.916134" lon="11.615932">
+<ele>318.6</ele>
+</trkpt>
+<trkpt lat="50.916082" lon="11.615826">
+<ele>316.8</ele>
+</trkpt>
+<trkpt lat="50.916028" lon="11.615711">
+<ele>315</ele>
+</trkpt>
+<trkpt lat="50.91597" lon="11.615567">
+<ele>313.6</ele>
+</trkpt>
+<trkpt lat="50.915908" lon="11.61543">
+<ele>312.2</ele>
+</trkpt>
+</trkseg>
+</trk>
+</gpx>

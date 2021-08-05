@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" creator="Doogal.co.uk" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd">
+<metadata>
+<link href="https://www.doogal.co.uk">
+<text>Doogal.co.uk</text>
+</link>
+<time>2021-08-04T14:34:40.416Z</time>
+</metadata>
+<trk>
+<name> Abfahrt Napoleonstein (Die gesamte Strecke)</name>
+<link href="https://www.strava.com/segments/23603798">
+<text>View on Strava</text>
+</link>
+<trkseg>
+<trkpt lat="50.945068" lon="11.571491">
+<ele>366</ele>
+</trkpt>
+<trkpt lat="50.945001" lon="11.571464">
+<ele>362</ele>
+</trkpt>
+<trkpt lat="50.94492" lon="11.571438">
+<ele>360</ele>
+</trkpt>
+<trkpt lat="50.944827" lon="11.571413">
+<ele>358</ele>
+</trkpt>
+<trkpt lat="50.944723" lon="11.571388">
+<ele>355</ele>
+</trkpt>
+<trkpt lat="50.94461" lon="11.571359">
+<ele>353</ele>
+</trkpt>
+<trkpt lat="50.944494" lon="11.571319">
+<ele>351</ele>
+</trkpt>
+<trkpt lat="50.944375" lon="11.571265">
+<ele>350</ele>
+</trkpt>
+<trkpt lat="50.944256" lon="11.571198">
+<ele>348</ele>
+</trkpt>
+<trkpt lat="50.944137" lon="11.571131">
+<ele>347</ele>
+</trkpt>
+<trkpt lat="50.944017" lon="11.571058">
+<ele>346</ele>
+</trkpt>
+<trkpt lat="50.943897" lon="11.570983">
+<ele>345</ele>
+</trkpt>
+<trkpt lat="50.943775" lon="11.570908">
+<ele>343</ele>
+</trkpt>
+<trkpt lat="50.943653" lon="11.570836">
+<ele>342</ele>
+</trkpt>
+<trkpt lat="50.943521" lon="11.57076">
+<ele>341</ele>
+</trkpt>
+<trkpt lat="50.943392" lon="11.570685">
+<ele>340</ele>
+</trkpt>
+<trkpt lat="50.943263" lon="11.570611">
+<ele>339</ele>
+</trkpt>
+<trkpt lat="50.943132" lon="11.570544">
+<ele>337</ele>
+</trkpt>
+<trkpt lat="50.943001" lon="11.570478">
+<ele>336</ele>
+</trkpt>
+<trkpt lat="50.942877" lon="11.570419">
+<ele>334</ele>
+</trkpt>
+<trkpt lat="50.942751" lon="11.570363">
+<ele>333</ele>
+</trkpt>
+<trkpt lat="50.942616" lon="11.570315">
+<ele>332</ele>
+</trkpt>
+<trkpt lat="50.942492" lon="11.57028">
+<ele>331</ele>
+</trkpt>
+<trkpt lat="50.942371" lon="11.570255">
+<ele>330</ele>
+</trkpt>
+<trkpt lat="50.942255" lon="11.570244">
+<ele>330</ele>
+</trkpt>
+<trkpt lat="50.942145" lon="11.570244">
+<ele>329</ele>
+</trkpt>
+<trkpt lat="50.942073" lon="11.570256">
+<ele>328</ele>
+</trkpt>
+<trkpt lat="50.94193" lon="11.570281">
+<ele>327</ele>
+</trkpt>
+<trkpt lat="50.941837" lon="11.570309">
+<ele>326</ele>
+</trkpt>
+<trkpt lat="50.941769" lon="11.570338">
+<ele>326</ele>
+</trkpt>
+</trkseg>
+</trk>
+</gpx>

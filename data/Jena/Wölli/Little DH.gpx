@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" creator="Doogal.co.uk" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd">
+<metadata>
+<link href="https://www.doogal.co.uk">
+<text>Doogal.co.uk</text>
+</link>
+<time>2021-08-04T14:30:18.399Z</time>
+</metadata>
+<trk>
+<name>Little DH</name>
+<link href="https://www.strava.com/segments/7223142">
+<text>View on Strava</text>
+</link>
+<trkseg>
+<trkpt lat="50.913082" lon="11.595875">
+<ele>305.8</ele>
+</trkpt>
+<trkpt lat="50.913133" lon="11.595829">
+<ele>304.2</ele>
+</trkpt>
+<trkpt lat="50.913181" lon="11.595795">
+<ele>303.1</ele>
+</trkpt>
+<trkpt lat="50.913223" lon="11.59576">
+<ele>302</ele>
+</trkpt>
+<trkpt lat="50.913274" lon="11.595718">
+<ele>300.7</ele>
+</trkpt>
+<trkpt lat="50.913331" lon="11.595671">
+<ele>299.3</ele>
+</trkpt>
+<trkpt lat="50.913385" lon="11.595629">
+<ele>298.1</ele>
+</trkpt>
+<trkpt lat="50.913436" lon="11.595579">
+<ele>296.7</ele>
+</trkpt>
+<trkpt lat="50.91349" lon="11.595535">
+<ele>295.5</ele>
+</trkpt>
+<trkpt lat="50.913542" lon="11.595498">
+<ele>294.6</ele>
+</trkpt>
+<trkpt lat="50.913595" lon="11.595466">
+<ele>293.8</ele>
+</trkpt>
+<trkpt lat="50.913644" lon="11.595439">
+<ele>293.2</ele>
+</trkpt>
+<trkpt lat="50.913687" lon="11.595421">
+<ele>292.9</ele>
+</trkpt>
+<trkpt lat="50.913712" lon="11.595401">
+<ele>292.3</ele>
+</trkpt>
+<trkpt lat="50.913772" lon="11.595362">
+<ele>290.6</ele>
+</trkpt>
+<trkpt lat="50.913803" lon="11.595367">
+<ele>290</ele>
+</trkpt>
+<trkpt lat="50.913837" lon="11.595373">
+<ele>289.4</ele>
+</trkpt>
+<trkpt lat="50.913873" lon="11.595362">
+<ele>288.2</ele>
+</trkpt>
+<trkpt lat="50.913905" lon="11.595367">
+<ele>287.6</ele>
+</trkpt>
+<trkpt lat="50.913931" lon="11.595334">
+<ele>285.9</ele>
+</trkpt>
+<trkpt lat="50.913959" lon="11.595323">
+<ele>284.9</ele>
+</trkpt>
+<trkpt lat="50.913987" lon="11.595316">
+<ele>284</ele>
+</trkpt>
+<trkpt lat="50.914013" lon="11.595252">
+<ele>281.3</ele>
+</trkpt>
+<trkpt lat="50.91404" lon="11.595243">
+<ele>280.4</ele>
+</trkpt>
+<trkpt lat="50.914067" lon="11.595225">
+<ele>279.2</ele>
+</trkpt>
+<trkpt lat="50.914085" lon="11.595261">
+<ele>279.9</ele>
+</trkpt>
+</trkseg>
+</trk>
+</gpx>

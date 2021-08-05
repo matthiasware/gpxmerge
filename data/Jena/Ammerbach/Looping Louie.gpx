@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" creator="Doogal.co.uk" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd">
+<metadata>
+<link href="https://www.doogal.co.uk">
+<text>Doogal.co.uk</text>
+</link>
+<time>2021-08-04T14:44:33.397Z</time>
+</metadata>
+<trk>
+<name>Looping Louie</name>
+<link href="https://www.strava.com/segments/26515219">
+<text>View on Strava</text>
+</link>
+<trkseg>
+<trkpt lat="50.905472" lon="11.525533">
+<ele>373.9</ele>
+</trkpt>
+<trkpt lat="50.905443" lon="11.525709">
+<ele>373.1</ele>
+</trkpt>
+<trkpt lat="50.905384" lon="11.52574">
+<ele>372.1</ele>
+</trkpt>
+<trkpt lat="50.905199" lon="11.525745">
+<ele>370.8</ele>
+</trkpt>
+<trkpt lat="50.905077" lon="11.525974">
+<ele>368.9</ele>
+</trkpt>
+<trkpt lat="50.905051" lon="11.52604">
+<ele>368.2</ele>
+</trkpt>
+<trkpt lat="50.905023" lon="11.526158">
+<ele>367.3</ele>
+</trkpt>
+<trkpt lat="50.905026" lon="11.526392">
+<ele>364.5</ele>
+</trkpt>
+<trkpt lat="50.90502" lon="11.526538">
+<ele>362.8</ele>
+</trkpt>
+<trkpt lat="50.904949" lon="11.526762">
+<ele>359.2</ele>
+</trkpt>
+<trkpt lat="50.904848" lon="11.526959">
+<ele>356.5</ele>
+</trkpt>
+<trkpt lat="50.904786" lon="11.527213">
+<ele>352.9</ele>
+</trkpt>
+<trkpt lat="50.904775" lon="11.527361">
+<ele>351.3</ele>
+</trkpt>
+<trkpt lat="50.90478" lon="11.527659">
+<ele>348</ele>
+</trkpt>
+<trkpt lat="50.9047" lon="11.527955">
+<ele>344.8</ele>
+</trkpt>
+<trkpt lat="50.904491" lon="11.528024">
+<ele>343.1</ele>
+</trkpt>
+<trkpt lat="50.904376" lon="11.528263">
+<ele>341</ele>
+</trkpt>
+<trkpt lat="50.904355" lon="11.528512">
+<ele>339.1</ele>
+</trkpt>
+<trkpt lat="50.904333" lon="11.528806">
+<ele>337.6</ele>
+</trkpt>
+<trkpt lat="50.904272" lon="11.529119">
+<ele>336.3</ele>
+</trkpt>
+<trkpt lat="50.904217" lon="11.529407">
+<ele>335.4</ele>
+</trkpt>
+<trkpt lat="50.90416" lon="11.529614">
+<ele>334.4</ele>
+</trkpt>
+<trkpt lat="50.904026" lon="11.529893">
+<ele>332.7</ele>
+</trkpt>
+<trkpt lat="50.903928" lon="11.530154">
+<ele>331.2</ele>
+</trkpt>
+</trkseg>
+</trk>
+</gpx>
